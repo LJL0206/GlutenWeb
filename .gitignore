@@ -1,0 +1,10 @@
+# Ignore database files
+db/*.db
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore environment variables (if using dotenv)
+.env
